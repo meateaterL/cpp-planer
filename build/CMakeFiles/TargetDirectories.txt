@@ -1,3 +1,0 @@
-/home/meateater/Projects/cpp-planer/build/CMakeFiles/CPP-PLANER.dir
-/home/meateater/Projects/cpp-planer/build/CMakeFiles/edit_cache.dir
-/home/meateater/Projects/cpp-planer/build/CMakeFiles/rebuild_cache.dir
