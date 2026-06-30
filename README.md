@@ -1,2 +1,3 @@
 # cpp-planer
-Планер задач на C++
+
+Cpp planner
